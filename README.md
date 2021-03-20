@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **victoraugustokist@gmail.com**
 
-- 💻 technologies:
-
-<p align="left">
+<p align="center">
+💻 technologies:
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/django/django-line.svg" alt="django" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="django" width="40" height="40"/>
