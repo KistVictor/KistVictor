@@ -7,8 +7,6 @@
 
 - ▶️ I regulary post videos on [my tikok](https://www.tiktok.com/@kistvictor_?lang=pt-BR&is_copy_url=1&is_from_webapp=v2) about technologies
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
-
 - 📫 How to reach me **victoraugustokist@gmail.com**
 
 <p align="center">
