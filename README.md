@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Kist0](https://github.com/Kist0?tab=repositories)
 
-- ▶️ I regulary post videos on [my tikok](ps://www.tiktok.com/@kistvictor_?lang=pt-BR&is_copy_url=1&is_from_webapp=v2) about technologies
+- ▶️ I regulary post videos on [my tikok](https://www.tiktok.com/@kistvictor_?lang=pt-BR&is_copy_url=1&is_from_webapp=v2) about technologies
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
