@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Kist</h1>
+<h1 align="center">Hello <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, I'm Victor Kist</h1>
 <h3 align="center">programming student</h3>
 
 - 🔭 I’m currently working in a hospital as a TI support
