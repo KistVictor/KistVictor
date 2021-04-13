@@ -1,5 +1,6 @@
-<h1 align="center">Hello <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, I'm Victor Kist</h1>
-<h3 align="center">programming student</h3>
+<h1 align="center">Olá <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, meu nome é Victor Kist</h1>
+<h2 align="center">Estudante de programação</h3>
+<h4 align="center">Atualmente cursando Ciência da computação e fazendo a formação de front-end na alura</h4>
 
 - 🔭 Estou atualmente trabalhando em um hospital como suporte TI
 
