@@ -1,13 +1,13 @@
 <h1 align="center">Hello <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, I'm Victor Kist</h1>
 <h3 align="center">programming student</h3>
 
-- 🔭 I’m currently working in a hospital as a TI support
+- 🔭 Estou atualmente trabalhando em um hospital como suporte TI
 
-- 👨‍💻 All of my projects are available at [github.com/Kist0](https://github.com/Kist0?tab=repositories)
+- 👨‍💻 Todos os meu projetos estão no [github.com/Kist0](https://github.com/Kist0?tab=repositories)
 
-- ▶️ I regulary post videos on [my tikok](https://www.tiktok.com/@kistvictor_?lang=pt-BR&is_copy_url=1&is_from_webapp=v2) about technologies
+- ▶️ Estou começando a postar videos de tecnologia no [meu tikok](https://www.tiktok.com/@kistvictor_?lang=pt-BR&is_copy_url=1&is_from_webapp=v2)
 
-- 📫 How to reach me **victoraugustokist@gmail.com**
+- 📫 E-mail para contato **victoraugustokist@gmail.com**
 
 <p align="center">
 💻 technologies:
@@ -18,9 +18,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript icon" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3 icon"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 icon"  width="40" height="40"/>
-<!-- not yet hehe
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="40" height="40"/>
--->
 </p>
 
 <p align="center">
