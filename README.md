@@ -19,6 +19,7 @@
 <a href="https://github.com/Kist0/banking"><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript icon" width="40" height="40"/></a>
 <a href="https://github.com/Kist0/barber_shop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3 icon"  width="40" height="40"/></a>
 <a href="https://github.com/Kist0/barber_shop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 icon"  width="40" height="40"/></a>
+<a href="https://github.com/Kist0/ceep"><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="React icon"  width="40" height="40"/></a>
 </p>
 
 <p align="center">
