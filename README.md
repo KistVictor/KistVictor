@@ -15,11 +15,12 @@
 </p>
 <p align="center">
 <a href="https://github.com/Kist0/Genius" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python icon" height="40" width="40" /></a>
-<a href="https://github.com/Kist0/receitas"><img src="https://github.com/Kist0/devicon/blob/master/icons/django/django-original.svg" alt="Django icon"  width="40" height="40"/></a>
-<a href="https://github.com/Kist0/Kist0/blob/main/MySQL"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySQL icon" width="40" height="40"/></a>
+<a href="https://github.com/Kist0/ceep"><img src="https://github.com/Kist0/devicon/blob/master/icons/django/django-original.svg" alt="Django icon"  width="40" height="40"/></a>
 <a href="https://github.com/Kist0/banking"><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="javascript icon" width="40" height="40"/></a>
-<a href="https://github.com/Kist0/barber_shop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3 icon"  width="40" height="40"/></a>
+<a href="https://raw.githubusercontent.com/Kist0/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="React icon" width="40" height="40"/></a>
 <a href="https://github.com/Kist0/barber_shop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5 icon"  width="40" height="40"/></a>
+<a href="https://github.com/Kist0/barber_shop"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3 icon"  width="40" height="40"/></a>
+<a href="https://github.com/Kist0/Kist0/blob/main/MySQL"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySQL icon" width="40" height="40"/></a>
 </p>
 
 <p align="center">
