@@ -6,8 +6,6 @@
 
 - 👨‍💻 Todos os meu projetos estão no [github.com/Kist0](https://github.com/Kist0?tab=repositories)
 
-- ▶️ Estou começando a postar videos de tecnologia no [meu tikok](https://www.tiktok.com/@kistvictor_?lang=pt-BR&is_copy_url=1&is_from_webapp=v2)
-
 - 📫 E-mail para contato **victoraugustokist@gmail.com**
 
 <p align="center">
