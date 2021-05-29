@@ -1,15 +1,15 @@
-<h1 align="center">Olá <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, meu nome é Victor Kist</h1>
-<h2 align="center"><a href="https://github.com/Kist0/curriculo/blob/main/Curriculo%20Victor%20Kist.pdf">Desenvolvedor Front-End</a></h2>
-<h4 align="center">Atualmente cursando Ciência da Computação e estudando as tecnologias mais atuais</h4>
+<h1 align="center">Hey <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, I'm Victor Kist</h1>
+<h2 align="center"><a href="https://github.com/Kist0/curriculo/blob/main/Curriculo%20Victor%20Kist.pdf">Front End Developer</a></h2>
+<h4 align="center">studying computer science at UNISC</h4>
 
-- 🔭 Começando na carreira de desenvolvedor front-end
+- 🔭 I'm working as a front end developer
 
-- 👨‍💻 Todos os meu projetos estão no [github.com/Kist0](https://github.com/Kist0?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/Kist0](https://github.com/Kist0?tab=repositories)
 
-- 📫 E-mail para contato **victoraugustokist@gmail.com**
+- 📫 How to reach me **victoraugustokist@gmail.com**
 
 <p align="center">
-Tecnologias:
+Technologys:
 </p>
 <p align="center">
 <a href="https://github.com/Kist0/ceep"><img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/react/react-original.svg" alt="react icon" width="40" height="40"/></a>
