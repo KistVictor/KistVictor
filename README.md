@@ -4,7 +4,7 @@
 
 - 🔭 I'm working as a front end developer
 
-- 👨‍💻 All of my projects are available at [github.com/Kist0](https://github.com/Kist0?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.com/KistVictor](https://github.com/KistVictor?tab=repositories)
 
 - 📫 How to reach me **victoraugustokist@gmail.com**
 
