@@ -23,9 +23,10 @@ Technologies:
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kistvictor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victor-kist" height="20" width="20" /></a>
-<a href="https://www.facebook.com/victor.kist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="victor.kist" height="20" width="20" /></a>
-<a href="https://www.instagram.com/kistvictor_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kistvictor_" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/kistvictor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="logo linkedin" height="20" width="20" /></a>
+<a href="https://codepen.io/kistvictor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="logo codepen" height="20" width="20" /></a>
+<a href="https://www.facebook.com/victor.kist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="logo facebook" height="20" width="20" /></a>
+<a href="https://www.instagram.com/kistvictor_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="logo instagram" height="20" width="20" /></a>
 </p>
 
 <!--
