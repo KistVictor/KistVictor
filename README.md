@@ -1,4 +1,4 @@
-<h1 align="center">Hey <a href="https://www.linkedin.com/in/victor-kist/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, I'm Victor Kist</h1>
+<h1 align="center">Hey <a href="https://www.linkedin.com/in/kistvictor/"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></a>, I'm Victor Kist</h1>
 <h2 align="center"><a href="https://github.com/Kist0/curriculo/blob/main/Curriculo%20Victor%20Kist.pdf">Web Developer</a></h2>
 <h4 align="center">studying computer science at UNISC</h4>
 
