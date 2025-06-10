@@ -1,14 +1,12 @@
 <h1 align="center">Hey, I'm Victor Kist</h1>
 <h2 align="center"><a href="https://github.com/Kist0/curriculo/blob/main/Curriculo%20Victor%20Kist.pdf">Developer</a></h2>
-<h4 align="center">studying computer science at UNISC</h4>
+<h4 align="center">graduated in computer science at UNISC</h4>
 
-- 🔭 I'm working as a fullstack developer
+- 🔭 I'm working as a IA specialist
 
 - 👨‍💻 All of my projects are available at [github.com/KistVictor](https://github.com/KistVictor?tab=repositories)
 
 - 📫 How to reach me **victoraugustokist@gmail.com**
-
-- 🖥 [My personal site](https://kistvictor.netlify.app)
 
 <p align="center">
 Technologies:
